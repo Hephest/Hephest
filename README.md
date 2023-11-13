@@ -1,14 +1,17 @@
-### Hi there 👋
+<div id="header"align="center">
+  <img src="https://i.gifer.com/4I9G.gif" width="100%"/>
+</div>
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/vladyslav-asaievych/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vladyslav Asaievych's LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/Hephest/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FHephest&logo=leetcode&logoColor=yellow" alt="Vladyslav Asaievych's LeetCode"/>
+  </a>
 </div>
 
 I'm Vlad - Software Engineer 👨‍💻 with 5+ years of commercial experience w/ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="16" height="16"/>&nbsp;.
-
-[![LeetCode user Hephest](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FHephest&logo=leetcode&logoColor=yellow)](https://leetcode.com/Hephest/)
 
 I provide full cycle of software development ⚙️ process (from estimation ⏲️ to release 📍),
 mostly using web frameworks like Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="16" height="16"/>&nbsp;, building web API's w/ REST and GraphQL.
@@ -25,7 +28,7 @@ mostly using web frameworks like Django <img src="https://github.com/devicons/de
 * **CI/CD**: Jenkins, Gitlab CI, Github Actions
 * **Monitoring & Logging**: Sentry, Grafana, Kibana, Logstash
 
-### Management Stack
+### Management Stack:
 * **Atlassian**: Jira, Confluence
 
 
