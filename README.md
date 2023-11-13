@@ -1,22 +1,21 @@
-<div id="header"align="center">
-  <img src="https://i.gifer.com/4I9G.gif" width="100%"/>
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" width="20%" alt="by Pixel Jeff"/>
 </div>
+
+---
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/vladyslav-asaievych/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vladyslav Asaievych's LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/Hephest/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FHephest&logo=leetcode&logoColor=yellow" alt="Vladyslav Asaievych's LeetCode"/>
-  </a>
 </div>
+
+---
 
 I'm Vlad - Software Engineer 👨‍💻 with 5+ years of commercial experience w/ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="16" height="16"/>&nbsp;.
 
 I provide full cycle of software development ⚙️ process (from estimation ⏲️ to release 📍),
 mostly using web frameworks like Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="16" height="16"/>&nbsp;, building web API's w/ REST and GraphQL.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hephest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Development Stack:
 * **Backend**: Django, FastAPI, Flask
@@ -24,12 +23,13 @@ mostly using web frameworks like Django <img src="https://github.com/devicons/de
 * **SQL Databases**: PostgreSQL, MySQL, SQLite
 * **NoSQL Databases**: Elasticsearch, MongoDB
 * **Containers**: Docker, Docker Compose, k8s
-* **Testing**: pytest, Nose, black
+* **Testing**: pytest, Nose, black, Postman
 * **CI/CD**: Jenkins, Gitlab CI, Github Actions
 * **Monitoring & Logging**: Sentry, Grafana, Kibana, Logstash
 
 ### Management Stack:
-* **Atlassian**: Jira, Confluence
+* **Management & Planning**: Jira, Trello, Asana, Clockify, Calendly
+* **Documentation**: Confluence, Google Docs, Notion
 
 
 <!--
