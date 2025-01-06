@@ -12,23 +12,24 @@
 
 ---
 
-I'm Vlad - Software Engineer 👨‍💻 with 5+ years of commercial experience w/ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="16" height="16"/>&nbsp;.
+I'm Vlad - Software Engineer 👨‍💻 with 6+ years of commercial experience w/ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="16" height="16"/>&nbsp;.
 
 I provide full cycle of software development ⚙️ process (from estimation ⏲️ to release 📍),
 mostly using web frameworks like Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="16" height="16"/>&nbsp;, building web API's w/ REST and GraphQL.
 
 ### Development Stack:
 * **Backend**: Django, FastAPI, Flask
-* **Frontend**: React, JS, HTML/CSS, Bootstrap, ChakraUI, Ant Design
+* **Frontend**: React, Next.js, JS, TypeScript, HTML/CSS, Bootstrap, ChakraUI, Ant Design, shadcn
 * **SQL Databases**: PostgreSQL, MySQL, SQLite
-* **NoSQL Databases**: Elasticsearch, MongoDB
+* **NoSQL Databases**: Elasticsearch, MongoDB, DocumentDB
 * **Containers**: Docker, Docker Compose, k8s
 * **Testing**: pytest, Nose, black, Postman
 * **CI/CD**: Jenkins, Gitlab CI, Github Actions
-* **Monitoring & Logging**: Sentry, Grafana, Kibana, Logstash
+* **Monitoring & Logging**: Sentry, Grafana, Kibana, Logstash, Coralogix
+* **APIs & 3rd-party**: Amplitude, Nylas, OneLogin
 
 ### Management Stack:
-* **Management & Planning**: Jira, Trello, Asana, Clockify, Calendly
+* **Management & Planning**: Jira, Trello, Asana, Clockify, Calendly, Monday.com
 * **Documentation**: Confluence, Google Docs, Notion
 
 
