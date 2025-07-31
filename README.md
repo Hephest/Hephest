@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/yOCzPNwpMMlFUlfLk8/giphy.gif" alt="by Pixel Jeff"/>
+  ![by Pixel Jeff](https://github.com/Hephest/Hephest/blob/be4d513fd9ae0c5a0700099295f2e71a76035b0a/cat.gif)
 </div>
 
 ---
